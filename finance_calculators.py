@@ -9,8 +9,8 @@ import math
 
 # user manual
 print("Choose either 'investment' or 'bond' from the menu below to proceed: \n")
-print("investment \t - to calculate the amount of interest you'll earn on a capital invested")
-print("bond \t - to calculate the amount you'll have to pay on a home loan")
+print("investment - to calculate the amount of interest you'll earn on a capital invested")
+print("bond - to calculate the amount you'll have to pay on a home loan")
 
 # input from user
 calculation_type = input("investment / bond: ").lower()
