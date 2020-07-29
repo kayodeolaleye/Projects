@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+collarkay, Visualisation, Create a user-friendly version of the tasks.txt file, 30-07-2020, 2020-07-27, No
+kay2core, Create an API, Create an API for ordering Pizza, 2020-07-28, 25 Aug 2020, No
+kay2core, Fix bug, Fix bugs in the code, 2020-07-28, 14 Jul 2021, No
