@@ -4,6 +4,8 @@ The user of this program can perform any of the following actions depending on t
     - add task
     - view all tasks
     - view my tasks
+    - generate reports
+    - displat statistics
 Only the admins can register new users.    
 
 """
