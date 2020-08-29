@@ -88,7 +88,7 @@ This is a basic Project Management System for a small structural engineering fir
 
 ##### Class Diagram
 
-![Class Diagram for PoisedTracker](PoiseDTrackerUML.png)
+<div style="text-align:center"><img src="PoiseDTrackerUML.png" /></div>
 
 ##### Dependencies
 
