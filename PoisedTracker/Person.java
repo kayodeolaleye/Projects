@@ -18,9 +18,7 @@ public class Person {
         this.email = email;
         this.address = address;
     }
-
     // Methods
-
     public String getLastName() {
 
         return lastName;
@@ -51,6 +49,4 @@ public class Person {
 
         return details;
     }
-    
-    
 }

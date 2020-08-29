@@ -94,9 +94,7 @@ public class Project {
             System.out.println("" + dateStr + " is before today's date");
 
         }
-
         System.out.println("Project due date successfully changed to " + newDate + "!");
-
     }
 
     public void updateFeePaid(double amount) {
@@ -105,7 +103,6 @@ public class Project {
 
         double newPaid = feesPaid + amount;
         feesPaid = newPaid;
-
     }
 
     public String finaliseProject() {
@@ -133,12 +130,6 @@ public class Project {
             return invoice;
 
         }
-
-        
-
-        
-
-
     }
     
 }
